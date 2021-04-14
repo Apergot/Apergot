@@ -2,9 +2,8 @@
 
 ### I'm developer, always interested on learning something new and in search of excelence.
 
-- 🔭 I’m currently working on my end of degree project.
 - 🌱 I’m currently learning everything I can about software engineering.
-- 🥅 2020/21 Goals: Finishing my degree and getting a nice job as software engineer.
+- 🥅 2020/21 Goals: Getting a nice job as software engineer.
 - ⚡ About me: I love playing videogames, reading Brandon Sanderson's books and playing guitar.
 
 ### Connect with me:
