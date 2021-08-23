@@ -2,8 +2,8 @@
 
 ### I'm developer, always interested on learning something new and in search of excelence.
 
-- 🌱 I’m currently learning everything I can about software engineering.
-- 🥅 2020/21 Goals: Getting a nice job as software engineer.
+- 🌱 I’m currently working as Back-End developer for The Singular Factory SL.
+- 🥅 2020/21 Goals: As I'm already working as a Symfony developer I would like to get some seniority using this framework, I'm working on learning native mobile apps development and also, I would like to get better at Valorant (lmao).
 - ⚡ About me: I love playing videogames, reading Brandon Sanderson's books and playing guitar.
 
 ### Connect with me:
