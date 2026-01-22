@@ -1,1 +1,1 @@
-## Hi there, I'm Alejandro - aka Apergot [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aperdomoglez/)
+## Hi there, I'm Alejandro - aka Apergot 
